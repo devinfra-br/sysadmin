@@ -30,15 +30,22 @@ Acesse nosso roadmap e veja as competências que você precisa para ser um SysAd
 
 
 ### Plataformas de cursos online e gratuitos
+
 https://ada.tech/
+
 https://www.edx.org/
+
 https://www.coursera.org/
+
 https://learn.microsoft.com/pt-br/training/
 
 
 ### Melhores escolhas de Tech
+
 https://4linux.com.br/
+
 https://www.impacta.com.br/cursos/infraestrutura
+
 
 ### Cursos de Técnologo curta duração
 - Banco de Dados  
@@ -50,10 +57,11 @@ https://www.impacta.com.br/cursos/infraestrutura
 Abaixo uma lista de certificações de nível basico e médio nos sites abaixo você poderá encontrar outras certificações de acordo com o seu nível.
 
 #### Linux (LPI): https://lpibrasil.com.br/
--  LPI 101 
+- LPI 101 
 - LPI 102 
 
 #### CompTIA: https://www.comptia.org/
+
 - CompTIA  Network+
 - CompTIA Server+
 - CompTIA Cloud Essentials+
@@ -61,26 +69,32 @@ Abaixo uma lista de certificações de nível basico e médio nos sites abaixo v
 - CompTIA  Security+
 
 #### Microsoft: https://learn.microsoft.com/en-us/credentials/browse/
+
 - AZ-800
 - AZ-801
 - AZ-900
 
 #### Cisco: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
+
  - CCNA
 
 #### Vmware: https://www.vmware.com/learning/certification.html
+
 - VCTA
 - VCP
 
 #### AWS: https://aws.amazon.com/pt/certification
+
 - Cloud Practitioner
 - Solutions Architect ‒ Associate
 
 #### GCP: https://cloud.google.com/learn/certification
+
 - Associate Cloud Engineer
 - Professional Cloud Architect
 
 #### Linux Foundation: https://training.linuxfoundation.org/certification-catalog/
+
 - IT Associate (LFCA)
 - System Administrator (LFCS)
 - GitOps Associate (CGOA)
